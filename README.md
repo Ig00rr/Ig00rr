@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ig00rr
+- 👀 I’m interested in ABAP language
+- 🌱 I’m currently learning ABAP syntax
+- Keep a positive attitude
